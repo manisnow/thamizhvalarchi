@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/manisnow/thamizhvalarchi#readme",
   "dependencies": {
+    "aws-sdk": "^2.380.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "formidable": "^1.2.1"
